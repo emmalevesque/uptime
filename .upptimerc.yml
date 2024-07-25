@@ -1,11 +1,10 @@
 # Change these first
 owner: emmalevesque # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-
+delay: 3600
 sites:
   - name: els.studio
     url: https://els.studio
-    delay: 3600
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
