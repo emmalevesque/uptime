@@ -3,21 +3,9 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: ethanjamesgreen.com
-    url: https://ethanjamesgreen.com
-  - name: bulk-space.com
-    url: https://bulk-space.com
   - name: els.studio
     url: https://els.studio
-  - name: chloeseibert.com
-    url: https://chloeseibert.com
-  - name: nyctransoralhistory.org
-    url: https://nyctransoralhistory.org
-  # - name: IPv6 test
-  #   url: forwardemail.net
-  #   port: 80
-  #   check: "tcp-ping"
-  #   ipv6: true
+    delay: 3600
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
